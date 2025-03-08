@@ -5,7 +5,7 @@ Just colors...
 
 # How to download and run it?
 
-* Type: `git clone https://github.com/1RaY-1/terminal-fun` in your terminal OR just download zipped file.
+* Type: `git clone https://github.com/1RaY-1/terminal-colors` in your terminal OR just download zipped file.
 
 Then...
 
