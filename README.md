@@ -16,6 +16,10 @@ Then...
 
 ```.\fun.ps1```
 
+* If you receieve an **error** saying that running scripts is disabled on this system, execute this on Powershell (as Admin):
+
+```Set-ExecutionPolicy RemoteSigned```
+
 ## On Linux or Android (with the necessary program installed)
 * Go to [Linux directory](https://github.com/1RaY-1/terminal-fun/tree/main/Linux)
 
@@ -29,3 +33,6 @@ Then...
 
 * To Stop it:  CTRL + C
 
+* On Windows when you don't execute any scripts, set *ExecutionPolicy* back to *Restricted* for better security:
+
+```Set-ExecutionPolicy Restricted```
