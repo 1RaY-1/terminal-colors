@@ -16,7 +16,7 @@ Then...
 
 ```.\fun.ps1```
 
-## On Linux
+## On Linux or Android (with the necessary program installed)
 * Go to [Linux directory](https://github.com/1RaY-1/terminal-fun/tree/main/Linux)
 
 * Open terminal there and type:
